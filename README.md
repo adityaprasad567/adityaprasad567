@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/hacker-you-have-been-hacked-snt8b8zv3tqqm8xa.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F5OTFoZnJ0aGljeG55YTVuNGYxbWZtZG83dGl3M3V6a2QxbjN0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 
 - 🌱 I’m currently learning **DSA in Python**
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rog_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rog_aditya" height="30" width="40" /></a>
+<a href="https://instagram.com/rog_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityaa__prasad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
