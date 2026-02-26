@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mryaditya567@gmail.com**
 
-- ⚡ Fun fact **I think i am Allu Arjun**
+- ⚡ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
