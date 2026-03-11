@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F5OTFoZnJ0aGljeG55YTVuNGYxbWZtZG83dGl3M3V6a2QxbjN0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 
-- 🌱 I’m currently learning **DSA in Python**
+- 🌱 I’m currently learning **DSA*
 
 - 📫 How to reach me **mryaditya567@gmail.com**
 
